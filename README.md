@@ -3,7 +3,7 @@
 My name is Selehadin 
 i am a front-end developer with a strong passion for bring designs to life 
 - 🌱 I’m currently learning d3 data visualization
-- - 👯 I’m looking to collaborate on react projeckts
+- 👯 I’m looking to collaborate on react projeckts
 <!--
 **selehadin-cyber/selehadin-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

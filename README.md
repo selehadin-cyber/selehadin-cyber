@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Selehadin 
-i am a front-end developer with a strong passion for bringing designs to life 
+i am a front-end developer with a strong passion for bringing designs to deployment
 - 🌱 I’m currently learning d3 data visualization
 - 👯 I’m looking to collaborate on react projects
 <!--
